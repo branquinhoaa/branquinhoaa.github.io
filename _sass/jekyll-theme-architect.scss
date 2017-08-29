@@ -224,7 +224,7 @@ form {
   padding-right: 0.3em;
   margin-left: -1.5em;
   content: "//";
-  color: #9ddcff;
+  color: $border;
 }
 
 #main-content h3 {
@@ -233,7 +233,7 @@ form {
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 18px;
   font-weight: bold;
-  color: #474747;
+  color: $titles;
   text-indent: 3px;
 }
 
@@ -241,7 +241,7 @@ form {
   padding-right: 0.3em;
   margin-left: -2em;
   content: "///";
-  color: #9ddcff;
+  color: $border;
 }
 
 #main-content h4 {
@@ -249,7 +249,7 @@ form {
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 15px;
   font-weight: bold;
-  color: #474747;
+  color: $titles;
   text-indent: 3px;
 }
 
@@ -257,35 +257,35 @@ h4:before {
   padding-right: 0.3em;
   margin-left: -2.8em;
   content: "////";
-  color: #9ddcff;
+  color: $border;
 }
 
 #main-content h5 {
   margin-bottom: 8px;
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 14px;
-  color: #474747;
+  color: $titles;
   text-indent: 3px;
 }
 h5:before {
   padding-right: 0.3em;
   margin-left: -3.2em;
   content: "/////";
-  color: #9ddcff;
+  color: $border;
 }
 
 #main-content h6 {
   margin-bottom: 8px;
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: .8em;
-  color: #474747;
+  color: $titles;
   text-indent: 3px;
 }
 h6:before {
   padding-right: 0.3em;
   margin-left: -3.7em;
   content: "//////";
-  color: #9ddcff;
+  color: $border;
 }
 
 p {
@@ -304,7 +304,7 @@ blockquote {
   padding: 0 0 0 30px;
   margin-bottom: 20px;
   font-size: 15px;
-  border-left: 10px solid #e9e9e9;
+  border-left: 10px solid $border;
 }
 
 ul {
@@ -329,15 +329,15 @@ footer {
   padding-bottom: 30px;
   margin-top: 40px;
   font-size: 13px;
-  color: #aaa;
+  color: $text;
   background: transparent url('../images/hr.png') 0 0 no-repeat;
 }
 
 footer a {
-  color: #666;
+  color: $links;
 }
 footer a:hover {
-  color: #444;
+  color: $titles;
 }
 
 /* MISC */
@@ -417,9 +417,9 @@ footer a:hover {
     margin-top: 15px;
     font-size: 13px;
     line-height: 1;
-    color: #2879d0;
+    color: $links;
     text-align: center;
-    background-color: #9ddcff;
+    background-color: $background;
     background-image: none;
     border-radius: 5px;
     -moz-border-radius: 5px;
@@ -439,7 +439,7 @@ footer a:hover {
     padding: 20px 0;
     margin-top: 20px;
     background-image: none;
-    border-top: solid 1px #ddd;
+    border-top: solid 1px $border;
   }
   aside#sidebar a.button {
     display: none;
