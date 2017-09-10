@@ -2,122 +2,39 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](another-page).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# [](#header-1)Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## [](#header-2)Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### [](#header-3)Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### [](#header-4)Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### [](#header-5)Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### [](#header-6)Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
+# About me 
 
 * * *
 
-### Here is an unordered list:
+ My name is Amanda and I am a Brazilian girl that recently (2016) started to study software development.
+ Currently, I am a student of information system at Federal Institute of Goiás.
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+ However, I also am a biologist and I have a master degree in ecology and evolution. Some people think that biology is totally unrelated to technology. I don't think so.
+ I believe that technology is related to everything, so biology is. 
 
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![](https://guides.github.com/activities/hello-world/branching.png)
+ Since I started to study software development, my life is completely different. I still love biology and everything related to life and because of I really like to be involved with social programs and inclusion initiatives. I love to be involved with the community and I love to contribute to open source. I am also passionate about learning languages and another culture.
 
 
-### Definition lists can be used with HTML syntax.
+* * *
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+### Few notes about myself:
 
-```
-The final element.
-```
+> I started to study software development in january/2016.
+>
+> I started to work with software development in august/2016. 
+>
+> I have already built one entire system, worked for a big company in my city and contributed to open source projects.
+>
+> Technology makes me believe that I am capable of anything.
+>
+> I believe that being a programmer made me more concerned about the woman’s role in the society.
+>
+> My dream is to become a digital nomad and work remotely from different places around the world!
+
+
+
+* * *
+
+
+### [**My Résumé**](cv)
