@@ -36,9 +36,9 @@ Federal Institute of Goias
 
 
 **2018/06 - current** - Rebelmouse.
-I started on 2018 working as Technical Account Manager at Rebelmouse (https://www.rebelmouse.com/). 
+I started as a Technical Account Manager at Rebelmouse in 2018 (https://www.rebelmouse.com/). 
 Some months later I was promoted to the role of "Director of Technical Account Manager", where my main responsibility was to lead client migration to Rebelmouse CMS.
-On Rebelmouse, I deal with clients in a daily basis and the communication skills are an essential part of the Job.
+The work consists on dealing with clients, solving their problems, training them to use the platform in the best way and also implementing the frontend of their pages (JS, CSS, HTML).
 
 **2017/09 - 2018/06** - Simbiose Ventures.
 For almost an year I worked 100% remote in this Brazilian data warehouse company. There I was a junior software developer and we use to work with Java and Python. (https://www.simbioseventures.com/).
@@ -59,13 +59,18 @@ I have also worked on several institutional websites.
 ***
 
 <dl>
-<dt>Basic knowledge </dt>
-  <dd>
-   Git, linux, continuous integration (CircleCI/Travis), Java, MongoDB
+
+<dt>Intermediate/Advanced knowledge</dt>
+   <dd>
+    Soft-skills: Communication (spoken and written), Teamwork, Collaboration, Organization, Adaptability  
   </dd>
-<dt>Intermediate knowledge</dt>
   <dd>
-    Ruby on Rails, JavaScript (vanilla and jquery), CSS3, HTML5, TDD
+    Hard-skills: Ruby on Rails, JavaScript (vanilla and jquery), CSS3, HTML5
+  </dd>
+  
+  <dt>Basic knowledge </dt>
+  <dd>
+   Git, linux, continuous integration (CircleCI/Travis), Java, MongoDB, Python
   </dd>
 </dl>
 
