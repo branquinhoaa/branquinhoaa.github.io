@@ -35,8 +35,8 @@ layout: default
 
 **2018/06 - current** - Rebelmouse.
 I started as a Technical Account Manager at Rebelmouse in 2018 (https://www.rebelmouse.com/). 
-Some months later I was promoted to the role of "Director of Technical Account Manager", where my main responsibility was to lead client migration to Rebelmouse CMS.
-The work consists on dealing with clients, solving their problems, training them to use the platform in the best way and also implementing the frontend of their pages (JS, CSS, HTML).
+Some months later I was promoted to "Director of Technical Account Manager", where my main responsibility was to lead client migration to Rebelmouse CMS.
+The work consists of dealing with clients, helping them to find the best solution, training them to use the platform in the best way and also implementing the frontend of their pages (JS, CSS, HTML).
 
 **2017/09 - 2018/06** - Simbiose Ventures.
 For almost an year I worked 100% remote in this Brazilian data warehouse company. There I was a junior software developer and we use to work with Java and Python. (https://www.simbioseventures.com/).
@@ -45,12 +45,10 @@ For almost an year I worked 100% remote in this Brazilian data warehouse company
 This was my first remote experience and also my first work experience in english. I had the honor to be selected for a three-month scholarship to contribute to an Open-Source project. (https://railsgirlssummerofcode.org/).
 
 **2017/03 - 2017/07** - Tron Informática.
-I had a short experience working in this local company as a junior developer. It was a accounting company and there I developed my skills on Ruby on Rails and AngularJS.
+I had a short experience working in this local company as a junior developer. It was an accounting company and there I developed my skills on Ruby on Rails and AngularJS.
 
 **2016/08 - 2017/03** - Freelancer.
 I was the main developer of a full-fledged system system for purchasing/leasing of machinery, vehicles and equipment (http://www.vemfecharnegocio.com.br/). Used Ruby on Rails and Jquery.
-I have also worked on several institutional websites.
-
 
 
 ### Knowledge: 
