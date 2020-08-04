@@ -21,9 +21,7 @@ I love being around people (and animals), traveling, learning (especially about 
 
 ### Few notes about myself:
 
-- I started studying software development in January/2016 (after finishing my master's degree).
-
-- I began to work with software development in August/2016. 
+- I started studying software development in January/2016 (after finishing my master's degree). In August/2016, I had my first professional experience. 
 
 - In my two first years as a software developer, I  built an entire system, worked for a big company in my city, and contributed to open source projects.
 
