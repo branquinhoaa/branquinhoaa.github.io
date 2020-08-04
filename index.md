@@ -7,7 +7,9 @@ layout: default
 * * *
 
 I'm Amanda. Nice to meet you!
+
 I am Brazilian, former biologist, still very evolutionist :)
+
 Since 2016 I decided to change my career path and became a software developer. Back in that time, it was a challenge - today, I can attest: I couldn't be happier.
 
 I believe a work environment needs to be respectful, diverse, and that people need to be comfortable to say what they don't know and keep learning every day.
