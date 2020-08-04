@@ -22,13 +22,14 @@ layout: default
 ***
 
 **2017 - current (paused)**      Bachelor of Information Systems
-Federal Institute of Goias
+- by Federal Institute of Goias (IFG)
 
 **2013 - 2015**    Master in Ecology and Evolution
-        Federal University of Goias
+        - by Federal University of Goias (UFG)
 
-**2008 - 2012**       Bachelor of Biological Sciences
-        Goias Federal University
+**2008 - 2012**       Bachelor of Biological Sciences 
+- by Federal University of Goias (UFG)
+       
 
 
 ### Professional Experience: 
