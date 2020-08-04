@@ -6,31 +6,30 @@ layout: default
 
 * * *
 
- My name is Amanda and I am a Brazilian girl that recently (2016) started to study software development.
- Currently, I am a student of information system at Federal Institute of Goiás.
+I'm Amanda. Nice to meet you!
+I am Brazilian, former biologist, still very evolutionist :)
+Since 2016 I decided to change my career path, and now I'm happy to work with technology. 
 
- However, I also am a biologist and I have a master degree in ecology and evolution. Some people think that biology is totally unrelated to technology. I don't think so.
- I believe that technology is related to everything, so biology is. 
+I believe a work environment needs to be respectful, diverse, and that people need to be comfortable to say what they don't know and keep learning every day.
 
- Since I started to study software development, my life is completely different. I still love biology and everything related to life and because of I really like to be involved with social programs and inclusion initiatives. I love to be involved with the community and I love to contribute to open source. I am also passionate about learning languages and another culture.
-
-
+I can dedicate myself 200% when I genuinely believe in something, and I enjoy being part of meaningful projects. I'm 
+communicative, organized, and I can always put myself in someone else shoes. 
+ 
+I love being around people (and animals), traveling, learning (especially about new cultures and languages), and cooking.
 * * *
 
 
 ### Few notes about myself:
 
-> I started to study software development in january/2016.
->
-> I started to work with software development in august/2016. 
->
-> I have already built one entire system, worked for a big company in my city and contributed to open source projects.
->
-> Technology makes me believe that I am capable of anything.
->
-> I believe that being a programmer made me more concerned about the woman’s role in the society.
->
-> My dream is to become a digital nomad and work remotely from different places around the world!
+- I started studying software development in January/2016 (after finishing my master's degree).
+
+- I began to work with software development in August/2016. 
+
+- In my two first years as a software developer, I  built an entire system, worked for a big company in my city, and contributed to open source projects.
+
+- I can say that technology made me see  I am capable of anything! there is nothing impossible when I compromise with a plan.
+
+- My dream is to become a digital nomad and work remotely from different places around the world!
 
 
 
